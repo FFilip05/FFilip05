@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FFilip05
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning java and javafx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
