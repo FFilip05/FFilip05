@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FFilip05
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning JavaScript, TypeScript and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at filipfuks2005$@gmail.com.
